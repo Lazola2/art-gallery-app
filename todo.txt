@@ -1,0 +1,42 @@
+author: Lazola Makubalo
+project: Culture gallery
+
+=== Description ===
+
+* This is a website to portray art 
+* it consist of art for different South African cultures
+
+=== Pages to be included ===
+* Home Page, Gallery, Contact page, artist page
+*** The above pages will be implemented under views
+*** The GalleryPageView will have components that are art items
+*** The ArtistPageView will have components that are artist pallet items
+*** The HomePageView and the ContactPageView do not need components
+
+=== Languages used to build the project
+* HTML, CSS, BOOTSTRAP, JS, VUE
+
+TODO: 
+ 1. Build a homepage with a stunning background and descriptive info
+ 2. Build a gallery page with all the arts displayed
+ 3. Build a contact page so that other people can contact you
+ 4. Build an artist page that will contain:
+    - A picture of the artist 
+    - A name of the artist
+    - The number of art portraits belonging to the artist
+    - The contact of the artist
+
+In the future, I might add more art to the page, 
+art categories: GBV, Past Heros and Heroins in SA etc.
+
+The user of this app can search, filter or sort :
+  - the type of art they would like to view
+    *** the art categories might be any of the categories listed above
+  - the culture for the art portraits
+
+Somehow: Leave a message to the developer of the website; message description provided below
+The message can be: 
+ * What you would like the developer to add to the website
+ * Mistakes that the developer could fix
+ * Potential bugs
+ * Artists to add their art
